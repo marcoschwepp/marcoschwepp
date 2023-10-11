@@ -2,7 +2,7 @@
 
 I'm Marco, a web developer based in Paderborn, Germany.
 
-- 🔭 I’m currently working on maintaining and creating a good webshop solution.
+- 🔭 I’m currently working on multiple projects.
 - 📫 How to reach me: marco.schweppe@gmx.de
 
 Skills: 
@@ -17,6 +17,7 @@ Skills:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jquery" alt="jquery" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="vuejs" alt="vuejs" width="40" height="40" />
 </div>
 
 <br/>
