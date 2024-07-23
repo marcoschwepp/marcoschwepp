@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Marco, a web developer based in Paderborn, Germany.
+I'm Marco, a Fullstack developer based in Paderborn, Germany.
 
 - 🔭 I’m currently working on multiple projects.
 - 📫 How to reach me: marco.schweppe@gmx.de
